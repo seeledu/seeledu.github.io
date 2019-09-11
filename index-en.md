@@ -15,9 +15,7 @@
   </tr>
 </table>
 </div>
----
-Zefeng Du, Male
----
+
 ### Education
 - 2016-	B.Sc. in Software Engineering, South China Agricultural University, Guangzhou, China
 
