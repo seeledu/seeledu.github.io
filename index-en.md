@@ -35,16 +35,15 @@
 - 2017-2018 First-class Prize in The WENS Scholarship
 
 ### Projects
-#### National Innovation Training Project for College Students of China (No. 201710564154)（2017.9~2018.12）
-- User Intent Understanding for Intelligent Virtual Assistants.
+- 2017-2018, User Intent Understanding for Intelligent Virtual Assistants, National Innovation Training Project for College Students of China (No. 201710564154)
 
-#### Publications 
+### Publications 
 - Du, Z., Huang, P., He, Y., Liu, W., Zhu, J.: A Knowledge-Gate Mechanism for Utterance Domain Classification. In: Proceedings of the 8th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2019), October 13-14, 2019.
 - He, Y., Huang, P., Du, Z., Liu, W.: Distant Supervision Based Utterance Domain Classification with Domain-Special NER. Journal of Chinese Information Processing, 2019, to appear. (In Chinese with English abstract)
 - Liang, Y., Huang, P., Huang, P., Du, Z.: Refining Word Vector Representation with Reliable Lexical Semantic Constraints. Journal of Chinese Information Processing, 2019, 33(1):56-67. (In Chinese with English abstract)
 - Huang Q., Huang, P., Li, Y., Du, Z.: End-to-end Dialogue Control for Utterances without Slot Values in Task-oriented Dialogue System. Journal of Chinese Information Processing, 2018, 32(12): 109-117. (In Chinese with English abstract)
 
-#### Certificate
+### Certificate
 - CET4、CET6
 - Andrew Ng’s machine learning course
 - Deeplearning.ai’ s deep learning course
