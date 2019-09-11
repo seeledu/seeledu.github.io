@@ -42,7 +42,7 @@
 ### 项目经历
 #### 华南农业大学国家级大学生创新训练项目（2017.9~2018.12）
 - **智能虚拟助理的用户意图理解研究**  
-本项目主要对
+本项目主要对在智能虚拟助理的用户意图理解相关的中文口语话语的槽信息填充（slot filling）、领域（domain）分类、意图（intent）识别以及对话行为识别等方面开展研究。我主要负责对领域分类和用户意图识别的调研，探索多任务学习（multi task learning）、引入外部知识（external knowledge）和融合多种注意力机制的方向。
 
 #### 论文发表
 -	Du, Z., Huang, P., He, Y., Liu, W., Zhu, J.: A Knowledge-Gate Mechanism for Utterance Domain Classification. In: Proceedings of the 8th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2019), October 13-14, 2019.
