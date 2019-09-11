@@ -45,13 +45,13 @@
 - **智能虚拟助理的用户意图理解研究**  
 本项目主要对在智能虚拟助理的用户意图理解相关的中文口语话语的槽信息填充（slot filling）、领域（domain）分类、意图（intent）识别以及对话行为识别等方面开展研究。我主要负责对领域分类和用户意图识别的调研，探索多任务学习（multi task learning）、引入外部知识（external knowledge）和融合多种注意力机制的方向。
 
-#### 论文发表
+### 论文发表
 -	Du, Z., Huang, P., He, Y., Liu, W., Zhu, J.: A Knowledge-Gate Mechanism for Utterance Domain Classification. In: Proceedings of the 8th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2019), October 13-14, 2019.
 -	何宇虹, 黄沛杰, 杜泽峰, 刘威: 结合特殊领域实体识别的远监督话语领域分类. 中文信息学报, 2019, to appear. (带英文摘要)
 -	梁泳诗, 黄沛杰, 黄培松, 杜泽峰: 基于可靠词汇语义约束的词语向量表达修正研究. 中文信息学报, 2019, 33(1):56-67. (带英文摘要)
 -	黄锵嘉, 黄沛杰, 李扬辉, 杜泽峰: 面向任务口语对话系统中不含槽信息话语的端到端对话控制. 中文信息学报, 2018, 32(12): 109-117. (带英文摘要)
 
-#### 证书
+### 证书
 -	通过英语四级、英语六级
 -	完成Andrew Ng 的机器学习课程
 -	完成Deeplearning.ai的深度学习课程
