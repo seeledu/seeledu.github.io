@@ -20,42 +20,34 @@ Zefeng Du, Male
 ---
 ### Education
 - 2016-	B.Sc. in Software Engineering, South China Agricultural University, Guangzhou, China
----
 
-杜泽峰，男，东莞人，目前在华南农业大学就读软件工程本科。有较丰富的程序编写经验与研究经历。有较好的沟通能力与团队协作精神。自我驱动学习者。
+### Research Interests
+- Natural Language Processing, Spoken Dialogue System
 
----
+### Major Awards and Honors 
+#### Shared Tasks
+-	2017 First Prize, Ranked 1st out of 74 teams. The 1st Evaluation of Chinese Human-Computer Dialogue Technology, task-1: Chinese Utterance Domain Classification. Sponsored by Chinese Information Processing Society of China (CIPSC).
+- 2018 Ranked 4th out of 80 teams. The 2nd Evaluation of Chinese Human-Computer Dialogue Technology, task-1: Chinese Utterance Domain Classification. Sponsored by Chinese Information Processing Society of China (CIPSC).
+- 2018 Ranked 10th out of 150 teams. Evaluation on User Intent Identification in Mobile Customer Service.  Sponsored by Chinese Information Processing Society of China (CIPSC).
+#### Programming Contest
+- 2017 Second Prize, the 15th Guangdong Collegiate Programming Contest (GDCPC 2017) 
+- 2017 First Prize, KAITONG cup Guangdong Collegiate JAVA Programming Contest 
+- 2017 First Prize, South China Agricultural University Programming Contest 
+#### Honors
+- 2017-2018 First-class Prize in The WENS Scholarship
 
-### 研究方向
-- 自然语言处理，自然语言理解
-- 计算语言学
+### Projects
+#### National Innovation Training Project for College Students of China (No. 201710564154)（2017.9~2018.12）
+- User Intent Understanding for Intelligent Virtual Assistants.
 
-### 主要奖项与荣誉
-#### 技术评测任务
-- 2017 SMP2017-ECDT任务一：意图领域分类开放式评测与封闭式评测一等奖（第一名，74支参赛队伍）
-- 2018 SMP2018-ECDT任务一：意图领域分类开放式评测（第四名，80支参赛队伍，在高校参赛队伍中排名第一）
--	2018 CCL2018任务一：客服领域用户意图分类（第十名，150支参赛队伍）
-#### 程序设计竞赛
-- 2016 华南农业大学新生程序设计竞赛第二名
-- 2017 第十五届广东大学生程序设计竞赛二等奖(GDCPC 2017) 
-- 2017 “凯通杯”广东省大学生java程序设计竞赛一等奖 
-- 2017 华南农业大学程序设计竞赛，IT专业组一等奖 
-#### 荣誉
-- 2017 数学与信息学院三等奖学金
-- 2018 温氏奖学金一等奖
+#### Publications 
+- Du, Z., Huang, P., He, Y., Liu, W., Zhu, J.: A Knowledge-Gate Mechanism for Utterance Domain Classification. In: Proceedings of the 8th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2019), October 13-14, 2019.
+- He, Y., Huang, P., Du, Z., Liu, W.: Distant Supervision Based Utterance Domain Classification with Domain-Special NER. Journal of Chinese Information Processing, 2019, to appear. (In Chinese with English abstract)
+- Liang, Y., Huang, P., Huang, P., Du, Z.: Refining Word Vector Representation with Reliable Lexical Semantic Constraints. Journal of Chinese Information Processing, 2019, 33(1):56-67. (In Chinese with English abstract)
+- Huang Q., Huang, P., Li, Y., Du, Z.: End-to-end Dialogue Control for Utterances without Slot Values in Task-oriented Dialogue System. Journal of Chinese Information Processing, 2018, 32(12): 109-117. (In Chinese with English abstract)
 
-### 项目经历
-#### 华南农业大学国家级大学生创新训练项目（2017.9~2018.12）
-- **智能虚拟助理的用户意图理解研究**  
-本项目主要对在智能虚拟助理的用户意图理解相关的中文口语话语的槽信息填充（slot filling）、领域（domain）分类、意图（intent）识别以及对话行为识别等方面开展研究。我主要负责对领域分类和用户意图识别的调研，探索多任务学习（multi task learning）、引入外部知识（external knowledge）和融合多种注意力机制的方向。
+#### Certificate
+- CET4、CET6
+- Andrew Ng’s machine learning course
+- Deeplearning.ai’ s deep learning course
 
-#### 论文发表
--	Du, Z., Huang, P., He, Y., Liu, W., Zhu, J.: A Knowledge-Gate Mechanism for Utterance Domain Classification. In: Proceedings of the 8th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2019), October 13-14, 2019.
--	何宇虹, 黄沛杰, 杜泽峰, 刘威: 结合特殊领域实体识别的远监督话语领域分类. 中文信息学报, 2019, to appear. (带英文摘要)
--	梁泳诗, 黄沛杰, 黄培松, 杜泽峰: 基于可靠词汇语义约束的词语向量表达修正研究. 中文信息学报, 2019, 33(1):56-67. (带英文摘要)
--	黄锵嘉, 黄沛杰, 李扬辉, 杜泽峰: 面向任务口语对话系统中不含槽信息话语的端到端对话控制. 中文信息学报, 2018, 32(12): 109-117. (带英文摘要)
-
-#### 证书
--	通过英语四级、英语六级
--	完成Andrew Ng 的机器学习课程
--	完成Deeplearning.ai的深度学习课程
