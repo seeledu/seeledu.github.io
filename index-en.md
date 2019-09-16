@@ -27,10 +27,12 @@
 -	2017 First Prize, Ranked 1st out of 74 teams. The 1st Evaluation of Chinese Human-Computer Dialogue Technology, task-1: Chinese Utterance Domain Classification. Sponsored by Chinese Information Processing Society of China (CIPSC).
 - 2018 Ranked 4th out of 80 teams. The 2nd Evaluation of Chinese Human-Computer Dialogue Technology, task-1: Chinese Utterance Domain Classification. Sponsored by Chinese Information Processing Society of China (CIPSC).
 - 2018 Ranked 10th out of 150 teams. Evaluation on User Intent Identification in Mobile Customer Service.  Sponsored by Chinese Information Processing Society of China (CIPSC).
+
 #### Programming Contest
 - 2017 Second Prize, the 15th Guangdong Collegiate Programming Contest (GDCPC 2017) 
 - 2017 First Prize, KAITONG cup Guangdong Collegiate JAVA Programming Contest 
 - 2017 First Prize, South China Agricultural University Programming Contest 
+
 #### Honors
 - 2017-2018 First-class Prize in The WENS Scholarship
 
