@@ -46,7 +46,7 @@
 
 ### 论文发表
 -	Du, Z., Huang, P., He, Y., Liu, W., Zhu, J.: A Knowledge-Gate Mechanism for Utterance Domain Classification. **In: Proceedings of the 8th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2019)**, October 13-14, 2019.
--	何宇虹, 黄沛杰, 杜泽峰, 刘威: 结合特殊领域实体识别的远监督话语领域分类. **中文信息学报**, 2019, 已录用. 
+-	何宇虹, 黄沛杰, 杜泽峰, 刘威, 朱建恺: 结合特殊领域实体识别的远监督话语领域分类. **中文信息学报**, 2019, 已录用. 
 -	梁泳诗, 黄沛杰, 黄培松, 杜泽峰: 基于可靠词汇语义约束的词语向量表达修正研究. **中文信息学报**, 2019, 33(1):56-67. 
 -	黄锵嘉, 黄沛杰, 李扬辉, 杜泽峰: 面向任务口语对话系统中不含槽信息话语的端到端对话控制. **中文信息学报**, 2018, 32(12): 109-117. 
 
