@@ -22,6 +22,9 @@
 ### Research Interests
 - Natural Language Processing, Spoken Dialogue System
 
+### Internship
+- Dec 2019 – Mar. 2020 Intern at Webank in the AI project group on user intent classification in natural language understanding for dialogue system (Mentor Dr. Yaohua Tang).
+  
 ### Major Awards and Honors 
 #### Shared Tasks
 - 2018 Ranked 4th out of 80 teams. The 2nd Evaluation of Chinese Human-Computer Dialogue Technology, task-1: Chinese Utterance Domain Classification. Sponsored by Chinese Information Processing Society of China (CIPSC).
