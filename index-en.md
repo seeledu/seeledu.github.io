@@ -3,10 +3,9 @@
   <tr>
     <td>
       <h1>Zefeng DU</h1>
-      <p><b>Bachelor</b></p>
-      <p><b>Software Engineering of College of Mathematics and Informatics, South China Agricultural University</b></p>
-      <p><b>E-mail：seeledu@bug.moe</b></p>
-      <p><b>Address：South China Agricultural University, Guangzhou, China</b></p>
+      <p><b>Master</b></p>
+      <p><b>Faculty of Science, University of Macau</b></p>
+      <p><b>E-mail：seele.du@connect.um.edu.mo</b></p>
       <a href="/index.html">中文版</a>
     </td>
     <td width="25%">
@@ -17,9 +16,11 @@
 </div>
 
 ### Education
-- 2016-	B.Sc. in Software Engineering, South China Agricultural University, Guangzhou, China
+- 2020-now	Master in Computer Science, University of Macau, Macau, China
+- 2016-2020	B.Sc. in Software Engineering, South China Agricultural University, Guangzhou, China
 
 ### Research Interests
+- Machine translation, Speech Translation
 - Natural Language Processing, Spoken Dialogue System
 
 ### Internship
